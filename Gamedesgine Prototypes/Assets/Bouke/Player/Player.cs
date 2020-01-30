@@ -19,8 +19,8 @@ public class Player : MonoBehaviour
     float pitch = 0f;
 
     [Header("Range")]
-    [Range(1, 15)]
-    public float mousesensetifity = 5f;
+    //[Range(1, 15)]
+    public float mousesensetifity = 2f;
 
     [Range(45, 85)]
     public float pitchrange = 45;
